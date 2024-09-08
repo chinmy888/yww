@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2992829 */
+  src: url('../font/font_2992829_fn2mtxbv17.woff2') format('woff2'),
+       url('../font/font_2992829_fn2mtxbv17.woff') format('woff'),
+       url('../font/font_2992829_fn2mtxbv17.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-windows:before {
+  content: "\e668";
+}
+
+.icon-ios:before {
+  content: "\e676";
+}
+
+.icon-iOS:before {
+  content: "\e734";
+}
+
+.icon-macOS:before {
+  content: "\e73a";
+}
+
+.icon-anzhuo:before {
+  content: "\e630";
+}
+
+.icon-mac:before {
+  content: "\e689";
+}
+
+.icon-logo_macos:before {
+  content: "\e729";
+}
+
+.icon-ios1:before {
+  content: "\ebd5";
+}
+
+.icon-windows1:before {
+  content: "\e68b";
+}
+
+.icon-weiruan:before {
+  content: "\e611";
+}
+
+.icon-YWW-LOGO:before {
+  content: "\e600";
+}
+
